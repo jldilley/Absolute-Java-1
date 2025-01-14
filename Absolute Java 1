@@ -1,0 +1,33 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaapplication1;
+
+/**
+ *
+ * @author jldil
+ */
+public class JavaApplication1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) 
+    {
+        System.out.println("Hello, Joshua!");
+        System.out.println("Good luck with your class this semester!");
+        
+        System.out.println("Let's do some math.");
+        int answer;
+        answer = 37+37;
+        System.out.println("That knucklehead on Veratasium would love this." + answer);
+    
+       
+    
+            
+// TODO code application logic here
+    }
+    
+}
+
