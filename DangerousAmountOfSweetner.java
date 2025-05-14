@@ -1,7 +1,7 @@
 /*Name: Joshua Dilley
 Date: 05/14/20265
 Programming Project: Absolute Java 1.4
-Source Code: DAngerousAmountOfSweetner.java
+Source Code: DangerousAmountOfSweetner.java
 Action: Calculates the amount of sweetner that would kill a dieter by first
 finding the amount dangerous to a mouse. All variables are hard coded.
 Weights are in grams.
