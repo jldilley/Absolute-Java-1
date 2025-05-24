@@ -38,5 +38,6 @@ Please enter the number of seconds to be converted: 0
 Please enter the number of seconds to be converted: 61
 0 hours 1 minutes 1 seconds 
 
-
+Please enter the number of seconds to be converted: 3661
+1 hours 1 minutes 1 seconds 
 */
