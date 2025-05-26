@@ -1,9 +1,9 @@
 /*Name: Joshua Dilley
 Date: 05/26/2025
-Problem: Absolute Java 6th Eddition Chapter 1 Problem 9
+Problem: Absolute Java 6th Edition Chapter 1 Problem 9
 Source Code: IdealBodyWeight.java
-Action: Calculate a rough estimation of ideal body weight given 110 pounds 
-for the first five feet of a person's height and five punds for each aditional
+Action: Calculate a rough estimate of ideal body weight given 110 pounds 
+for the first five feet of a person's height and five pounds for each aditional
 inch of height.
 
  */
@@ -33,5 +33,6 @@ public class IdeaLBodyWeight
 Please enter the person's height in feet and inches: 5 3
 Ideal body weight = 125 pounds.
 
-
+Please enter the person's height in feet and inches: 6 3
+Ideal body weight = 185 pounds.
 */
