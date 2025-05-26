@@ -1,8 +1,8 @@
 /*Name: Joshua Dilley
-Date: 
+Date: 05/26/2025
 Problem: Absolute Java 1.7
 Source Code: VehicleAverageSpeed.java
-Action: Calculate a vehicle's average speed given time and distnace.Hard coded 
+Action: Calculate a vehicle's average speed given time and distnace. Hard coded 
 in order to follow the problem's solution.
 
  */
@@ -14,7 +14,7 @@ public class VehicleAverageSpeed
     public static void main(String[] args) 
     {
         double Time = 20.5;
-        double AverageSpeed =   DISTANCE/Time;
+        double AverageSpeed = DISTANCE/Time;
         
         System.out.println("This program calculates vehicle average speed given a time and distanc traveled. ");
         System.out.print("The car's average speed is ");
