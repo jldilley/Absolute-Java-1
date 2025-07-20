@@ -47,5 +47,20 @@ public class DecimalFormatDemo
     }    
 }
 /* *************************Program Output************************************
-
+Pattern 00.000
+12.346
+Pattern 0.00
+12.35
+Pattern 0.00
+$19.80
+Pattern 0.00%
+30.80%
+Pattern #0.###E0
+1.2346E2
+Pattern 00.###E0
+12.346E1
+Pattern #0.###E0
+12.346E-6
+Pattern 00.###E0
+12.346E-6
 */
