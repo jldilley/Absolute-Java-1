@@ -2,7 +2,7 @@
 Date: 07/27/2025
 Source Code: BabylonianSquareRoot.java
 Action: This is a problem program from Chapter Two of Absolute Java 6th Edition.
-It calculates a numbers square root using an initial guess. 
+It calculates a number's square root using an initial guess. 
 */
 package absolutejava;
 import java.util.Scanner;
