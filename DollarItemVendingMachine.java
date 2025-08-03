@@ -79,4 +79,13 @@ Your change due is:
 1 nickels 
 For a total of $0.65 
 
+Please enter the price of your item. All items cost between $0.25 and $1.00 in increments 
+of $0.05. Do not include the dollar sign: 1.00
+Your change due is: 
+0 quarters 
+0 dimes 
+0 nickels 
+For a total of $0.00 
+
+
 */
