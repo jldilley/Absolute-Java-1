@@ -35,11 +35,12 @@ public class DangerousAmountOfSweetner2
 Please enter the amount required to kill a mouse in grams: .001
 Please enter the weight of the mouse in grams: 20
 Please enter the dieter's desired final weight: 20000
-It would take 1000 to kill the dieter.
+It would take 1000 liters to kill the dieter.
 
 Please enter the amount required to kill a mouse in grams: .001
 Please enter the weight of the mouse in grams: 20
 Please enter the dieter's desired final weight: 54431
 It would take 2721 liters to kill the dieter.
+
 
 */
