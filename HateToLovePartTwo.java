@@ -42,6 +42,9 @@ public class HateToLovePartTwo
     }
 }
 /* *******************************Program Output*******************************
+Note: Ending and PositionOfHate were used to help me understand how I needed to write the code. Once 
+      I solved the problem, I removed the lines from the program.
+
 Trial 11:
 Please enter a sentence that includes the word 'hate': 
 hate Pizza, I do not.
@@ -136,3 +139,4 @@ Ending = ate pizza.
 
 
 */
+
