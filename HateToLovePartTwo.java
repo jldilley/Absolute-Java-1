@@ -4,7 +4,7 @@ Programming  Project: Absolute Java Chapter Two Problem 9
 Source Code: HateToLovePArtTwo.java
 Action: User inputs a sentence. The program searches the input for the first 
 occurence of the word "hate". The program then returns the original sentence
-along with the ammended sentence that replaces "hate" with "love".
+along with the amended sentence that replaces "hate" with "love".
  */
 package absolutejava;
 import java.util.Scanner;
@@ -131,6 +131,7 @@ Your orginal, hatefilled sentence is: I hate pizza.
 Your new nicer, more loving sentence is: 
 I loveate pizza.
 Ending = ate pizza.
+
 
 
 
