@@ -44,3 +44,8 @@ public class HateToLoveFileRead
     }
     
 }
+/* ******************************Program Output********************************
+I love to hate. 
+
+
+*/
