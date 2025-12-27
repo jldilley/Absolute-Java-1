@@ -2,7 +2,7 @@
 Date: 12/26/2025
 Compiler: Apache NetBeans IDE 24
 Project: Absolute Java 5th Edition Problem 2.11
-Source Code: ThreeClassroomProblem.java
+Source Code: ThreeClassroomExercises.java
 Action: Enter the scores for three classroom projects and display the total 
 grade percentage using DecimalFormat class.
 
@@ -77,3 +77,4 @@ public class ThreeClassroomExercises
     }
     
 }
+
