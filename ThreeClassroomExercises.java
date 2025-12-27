@@ -77,4 +77,31 @@ public class ThreeClassroomExercises
     }
     
 }
+Name of exercise 1:
+Group Project
+Score received for exercise 1:
+10
+Total points possible for exercise 1:
+10
+Name of exercise 2:
+Homework
+Score received for exercise 2:
+12
+Total points possible for exercise 2:
+12
+Name of exercise 3:
+Presentation
+Score received for exercise 3:
+6
+Total points possible for exercise 3:
+8
+
+Exercise              Score                Total Possible
+Group Project         10                   10
+Homework             12                    12
+Presentation          6                    8
+Total                 28                   30
+
+Your total is 28 out of 30, or 93.33%.
+
 
