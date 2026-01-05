@@ -1,11 +1,11 @@
 /*Name: Joshua Dilley
 Date: 1/04/2025
 Compiler: Apache NetBeans IDE 24
-Project: ABsolute Java 5th Edition Example 3.1
-Action: use if-else statements to help calculate income tax depending on a 
+Project: Absolute Java 5th Edition Example 3.1
+Action: use if-else statement to help calculate income tax depending on a 
 person's tax bracket
 */
-package absolutejava;
+package absolutejava
 import java.util.Scanner;
 public class IncomeTaxAbsoluteJava 
 {
@@ -55,4 +55,5 @@ Tax due = $750.10  <-----------------the extra dollar is being taxed at 10%
 run:
 Enter your net income: 100000
 Tax due = $7750.00
+
 */
