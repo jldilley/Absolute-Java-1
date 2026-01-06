@@ -2,7 +2,7 @@
 Date: 1/05/2025
 Compiler: Apache NetBeans IDE 24
 Project: Absolute Java 5th Edition Example 3.2
-Action: example displaying how a bsic switch statement works. It's my own 
+Action: example displaying how a basic switch statement works. It's my own 
 variation of the example
 
  */
@@ -53,4 +53,5 @@ Enter a 1, 2, or 3 to choose your flavor: 3
 Chocolate (good, but overrated)
 Y to pick another flavor. Any other key to quit: n
 Enjoy your ice cream.    
+
 ******************************************************************************/ 
