@@ -1,7 +1,7 @@
 /*Name: Joshua Dilley
 Date: 07/27/2025
 Source Code: BabylonianSquareRoot.java
-Action: This is a problem program from Chapter Two of Absolute Java 6th Edition.
+Action: This is a problem program from Chapter Three of Absolute Java 6th Edition.
 It calculates a number's square root using an initial guess. 
 */
 package absolutejava;
@@ -11,7 +11,7 @@ public class BabylonianSquareRoot
     public static void main(String[] args) 
     {
         Scanner Input = new Scanner(System.in);
-        double Number = 0, Guess = 0, r = 0, SqrRootOfNumber = 0;
+        double Number = 0, Guess = 0, r = 0;
         
         
         System.out.println("Which number's square root would you like to compute? ");
@@ -19,13 +19,13 @@ public class BabylonianSquareRoot
         Number = Input.nextDouble();
         System.out.println("What is your best guess as to the number's square root? ");
         Guess = Input.nextDouble();
-        
-        for(int i = 0; i < 6; ++i)
+ 
+        while ( !(Guess/r >=  0.99 && 
+              Guess/r <= 1.00000000000000002)) //within 1 percent of one another
         {
             r = Number/Guess;
             Guess = (Guess + r)/2;
         }    
-        
         System.out.printf("The square root of " + Number + " is " + "%.2f", Guess);
         System.out.println("");
     }
