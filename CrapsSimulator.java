@@ -1,7 +1,7 @@
 /*Name: Josh Dilley 
 Date: 08/17/26
 Compiler: Apache NetBeans IDE 24
-Source Code: CapsSimulator.java
+Source Code: CrapsSimulator.java
 Action: Chapter Three Programming Project 2 from Absolute Java 5th edition
  */
 package absolutejava;
